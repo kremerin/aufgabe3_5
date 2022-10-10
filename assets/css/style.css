@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    margin-top: 10vh;
+}
+
+span {
+    border: 2px solid black;
+    font-size: 2rem;
+    margin: 0 20px;
+    padding: 0.5rem;
+}
+
+#meldung {
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
